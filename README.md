@@ -1,3 +1,2 @@
-# WebScraperAllMusic
- Simple example of a web scraper using python. In this case, we ask the user using the console for the name of a band/artist and using selenium webdriver and beautifulsoup we print information about the discography of that artist/band
-For this to work you need to install correctly the libraries used here (beautifulsoup and selenium) and also Chrome webdriver
+Music Scrapper 
+This tool scrapes all the top songs related to an artist stores in a data.csv file. In this web driver selenium is being used to scrap the data from the web.
